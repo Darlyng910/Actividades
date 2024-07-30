@@ -1,0 +1,4 @@
+Tipo de Vivienda: colectiva
+Detalle de Vivienda: Residencia u otro de adultos mayores
+Estado de Vivienda: ocupada
+Detalle del Estado de Vivienda: Con personas temporalmente ausentes

@@ -1,0 +1,34 @@
+Material paredes: piedra
+Paredes revoque: no
+Material techo: losa
+Material piso: machimbre
+Fuente agua: pileta
+Distribucion agua: caneria_exterior
+Energia electrica: publico
+Combustible cocinar: gas_cañeria
+Disposicion basura: terreno
+Cuarto cocina: si
+Cuartos: tres
+Cuartos dormir: dos
+Bano letrina : solo_hogar
+Desague bano tipo: superficie
+Vivienda tipo: prestada
+Bicicleta: si
+Motocicleta: si
+Vehiculo: no
+Carreta: si
+Deslizador: no
+Refrigerador: no
+Microondas: no
+Calefon: no
+Aire acondicionado: no
+Lavadora: no
+Radio equipo sonido: no
+Televisor: no
+Computadora: si
+Telefono celular: si
+Internet fijo: no
+Internet movil: si
+Tv cable satelital: si
+Telefonia fija: si
+Comentario: Muchas gracias

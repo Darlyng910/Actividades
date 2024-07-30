@@ -1,0 +1,12 @@
+Segmento: Segmento
+Manzana: Manzana 3
+Nro. de Predio: Predio 123
+Total de Viviendas en el Predio: 10
+Nro. de Vivienda: 5
+Ciudad o Comunidad: Tarija
+Calle, avenida o carretera: Avenida El Periodista
+Nro. de Puerta: 2
+Planta, piso o nivel: 2
+Nro. Depto.: B
+Nombre del edificio, condominio, torre o conventillo: Edificio Periodista
+Bloque: A
